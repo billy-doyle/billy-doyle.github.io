@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Billy Doyle"
 title_separator          : "-"
 name                     : &name "Billy Doyle"
-description              : &description "Data Engineer"
+description              : &description "Senior Data Engineer at Swish Analytics"
 url                      : https://billy-doyle.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "billy-doyle.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/william-doyle/
   orcid            :
   pinterest        :
   soundcloud       :
