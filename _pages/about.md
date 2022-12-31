@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Engineer at Swish Analytics working on all things data.
+I am a Data Engineer at Swish Analytics working on all things data. As a data engineer, I enjoy writing beautiful, explicit, and readable code. I build data pipelines, architect data infrastructure, manipulate large data sets, construct low latency solutions, utilize advanced analytics, and create machine learning models.
 
 Before joining Swish Analytics, I worked at the Action Network and Pointsbet also as a Data Engineer. 
 
